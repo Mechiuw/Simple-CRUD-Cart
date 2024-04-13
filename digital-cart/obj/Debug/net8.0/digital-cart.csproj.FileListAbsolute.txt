@@ -1,0 +1,14 @@
+C:\Users\Toshiba\RiderProjects\digital-cart\digital-cart\bin\Debug\net8.0\digital-cart.exe
+C:\Users\Toshiba\RiderProjects\digital-cart\digital-cart\bin\Debug\net8.0\digital-cart.deps.json
+C:\Users\Toshiba\RiderProjects\digital-cart\digital-cart\bin\Debug\net8.0\digital-cart.runtimeconfig.json
+C:\Users\Toshiba\RiderProjects\digital-cart\digital-cart\bin\Debug\net8.0\digital-cart.dll
+C:\Users\Toshiba\RiderProjects\digital-cart\digital-cart\bin\Debug\net8.0\digital-cart.pdb
+C:\Users\Toshiba\RiderProjects\digital-cart\digital-cart\obj\Debug\net8.0\digital-cart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\RiderProjects\digital-cart\digital-cart\obj\Debug\net8.0\digital-cart.AssemblyInfoInputs.cache
+C:\Users\Toshiba\RiderProjects\digital-cart\digital-cart\obj\Debug\net8.0\digital-cart.AssemblyInfo.cs
+C:\Users\Toshiba\RiderProjects\digital-cart\digital-cart\obj\Debug\net8.0\digital-cart.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\RiderProjects\digital-cart\digital-cart\obj\Debug\net8.0\digital-cart.dll
+C:\Users\Toshiba\RiderProjects\digital-cart\digital-cart\obj\Debug\net8.0\refint\digital-cart.dll
+C:\Users\Toshiba\RiderProjects\digital-cart\digital-cart\obj\Debug\net8.0\digital-cart.pdb
+C:\Users\Toshiba\RiderProjects\digital-cart\digital-cart\obj\Debug\net8.0\digital-cart.genruntimeconfig.cache
+C:\Users\Toshiba\RiderProjects\digital-cart\digital-cart\obj\Debug\net8.0\ref\digital-cart.dll
